@@ -1,0 +1,10 @@
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\bin\Debug\HashAlgorithm.exe.config
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\bin\Debug\HashAlgorithm.exe
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\bin\Debug\HashAlgorithm.pdb
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\obj\Debug\HashAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\obj\Debug\HashAlgorithm.Form1.resources
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\obj\Debug\HashAlgorithm.Properties.Resources.resources
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\obj\Debug\HashAlgorithm.csproj.GenerateResource.cache
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\obj\Debug\HashAlgorithm.csproj.CoreCompileInputs.cache
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\obj\Debug\HashAlgorithm.exe
+c:\users\vaio\source\repos\HashAlgorithm\HashAlgorithm\obj\Debug\HashAlgorithm.pdb
